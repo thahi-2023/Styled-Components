@@ -1,5 +1,4 @@
-
-import styled from 'styled-components'
+import styled from "styled-components";
 
 export const StyledSocialIcons = styled.div`
   display: flex;
@@ -22,4 +21,4 @@ export const StyledSocialIcons = styled.div`
     width: 40px;
     text-decoration: none;
   }
-`
+`;
